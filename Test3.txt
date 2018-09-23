@@ -1,0 +1,12 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is B065-51D5
+
+ Directory of C:\MyGitPrj
+
+23/09/2018  07:36 PM    <DIR>          .
+23/09/2018  07:36 PM    <DIR>          ..
+23/09/2018  07:23 PM               364 Test1.txt
+23/09/2018  07:15 PM               382 Test2.txt
+23/09/2018  07:36 PM                 0 Test3.txt
+               3 File(s)            746 bytes
+               2 Dir(s)  162,748,407,808 bytes free
